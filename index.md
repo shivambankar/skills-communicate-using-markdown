@@ -4,7 +4,6 @@
 
 ![Image of Squirell](https://github.com/shivambankar/skills-communicate-using-markdown/blob/start-markdown/Squirell.jpg)
 
-
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -18,3 +17,7 @@ var myVar = "Hello, world!";
 int num1 = 2;
 System.out.print(num1);
 ```
+Task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
